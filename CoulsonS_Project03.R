@@ -7,7 +7,7 @@
 #  and that all assistance from outside sources was correctly attributed in comments. Additional, I
 #  agree to abide by the rules expressed in the CSIS Academic Honesty Policy
 
-n <- 12
+n <- 10
 iters <- 10
 
 census <- read.csv('us_census.csv')
